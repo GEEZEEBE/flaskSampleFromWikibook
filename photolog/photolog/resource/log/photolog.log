@@ -1,0 +1,27 @@
+2017-12-14 17:40:09,683 - INFO - static folder : /home/yojulab/Downloads/flask/ch05/photolog/photolog/../static
+2017-12-14 17:40:09,683 - INFO - template folder : ../templates
+2017-12-14 17:42:35,867 - INFO - static folder : /home/yojulab/Downloads/flask/ch05/photolog/photolog/../static
+2017-12-14 17:42:35,868 - INFO - template folder : ../templates
+2017-12-14 17:45:15,932 - INFO - static folder : /home/yojulab/Downloads/flask/ch05/photolog/photolog/../static
+2017-12-14 17:45:15,933 - INFO - template folder : ../templates
+2017-12-14 17:45:17,447 - INFO - static folder : /home/yojulab/Downloads/flask/ch05/photolog/photolog/../static
+2017-12-14 17:45:17,447 - INFO - template folder : ../templates
+2017-12-14 17:45:43,494 - INFO - (GET)next_url is http://localhost:5000/
+2017-12-14 17:46:34,134 - DEBUG - None
+2017-12-14 17:46:48,921 - DEBUG - <User 'otter35' 'otter35@naver.com'>
+2017-12-14 17:46:48,945 - INFO - (GET)next_url is 
+2017-12-14 17:47:08,669 - INFO - (GET)next_url is http://localhost:5000/photo/
+2017-12-14 17:47:24,398 - INFO - (POST)next_url is http://localhost:5000/photo/
+2017-12-14 17:48:29,537 - ERROR - File upload error : illegal file.
+2017-12-14 17:48:29,537 - ERROR - Photolog error occurs : File upload error : illegal file.
+2017-12-14 17:54:21,551 - ERROR - File upload error : illegal file.
+2017-12-14 17:54:21,552 - ERROR - Photolog error occurs : File upload error : illegal file.
+2017-12-14 17:55:53,370 - ERROR - File upload error : illegal file.
+2017-12-14 17:55:53,377 - ERROR - Photolog error occurs : File upload error : illegal file.
+2017-12-14 18:01:24,958 - INFO - static folder : /home/yojulab/Downloads/flask/ch05/photolog/photolog/../static
+2017-12-14 18:01:24,958 - INFO - template folder : ../templates
+2017-12-14 18:01:30,643 - INFO - (GET)next_url is http://localhost:5000/photo/upload
+2017-12-14 18:01:48,135 - INFO - (POST)next_url is http://localhost:5000/photo/upload
+2017-12-14 18:02:45,219 - DEBUG - <User 'otter35' 'otter35@naver.com'>
+2017-12-14 18:59:40,103 - INFO - static folder : /home/yojulab/Downloads/workspace_flask/flaskSampleFromWikibook/photolog/photolog/../static
+2017-12-14 18:59:40,103 - INFO - template folder : ../templates
